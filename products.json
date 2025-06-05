@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"LOUNGE CHAIR",
+        "price":200,
+        "image":"image/1.png"
+    },
+    {
+        "id":2,
+        "name":"LOUNGE CHAIR",
+        "price":250,
+        "image":"image/2.png"
+    },
+    {
+        "id":3,
+        "name":"LOUNGE CHAIR",
+        "price":100,
+        "image":"image/3.png"
+    },
+    {
+        "id":4,
+        "name":"LOUNGE CHAIR",
+        "price":130,
+        "image":"image/4.png"
+    },
+    {
+        "id":5,
+        "name":"LOUNGE CHAIR",
+        "price":430,
+        "image":"image/5.png"
+    },
+    {
+        "id":6,
+        "name":"LOUNGE CHAIR",
+        "price":20,
+        "image":"image/7.png"
+    },
+    {
+        "id":7,
+        "name":"LOUNGE CHAIR",
+        "price":2200,
+        "image":"image/8.png"
+    }
+]
